@@ -1,0 +1,24 @@
+Machine	Purpose
+sjo-sv-winteg01.mchp-main.com	
+sjo-sv-winteg02.mchp-main.com	
+sjo-sv-winteg03.mchp-main.com	
+sjo-sv-winteg04.mchp-main.com	
+sjo-sv-winteg05.mchp-main.com	
+sjo-sv-winteg06.mchp-main.com	
+sjo-sv-winteg11.mchp-main.com	
+sjots10.mchp-main.com	SWE Windows development server, all sw installed (ClearCase, Cygwin, VS2008/2015/2019)
+sjots11.mchp-main.com	SWE Windows development server, all sw installed (ClearCase, Cygwin, VS2008/2015/2019)
+sjots12.mchp-main.com	SWE Windows development server, all sw installed (ClearCase, Cygwin, VS2008/2015/2019)
+sjots13.mchp-main.com,	Integration server
+sjots14mchp-main.com,	SQA Test server
+sjots15.mchp-main.com,	SWE Windows development server, pending software installation(ClearCase, Cygwin, VS2008/2015/2019)
+sjots16.mchp-main.com,	SWE Windows development server, all sw installed (ClearCase, Cygwin, VS2008/2015/2019)
+sjots17.mchp-main.com,	"	SWE Windows development server, pending software installation(ClearCase, Cygwin, VS2008/2015/2019)"
+sjots18.mchp-main.com,	"	SQA Test server"
+sjots19.mchp-main.com,	Windows development server
+sjots20.mchp-main.com,	Windows development server
+sjots21mchp-main.com,	Windows development server
+sjots22.mchp-main.com,	Windows development server
+sjots23.mchp-main.com,	Windows development server
+sjots24.mchp-main.com,	ARENA Windows Docker host
+sjots25.mchp-main.com,	ARENA Windows Docker host
