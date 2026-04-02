@@ -1,12 +1,12 @@
 instance,Purpose
-sjo-sv-winteg01.mchp-main.com,
-sjo-sv-winteg02.mchp-main.com,
-sjo-sv-winteg03.mchp-main.com,
-sjo-sv-winteg04.mchp-main.com,
-sjo-sv-winteg05.mchp-main.com,
-sjo-sv-winteg06.mchp-main.com,
-sjo-sv-winteg11.mchp-main.com,
-sjots10.mchp-main.com,	SWE Windows development server
+sjo-sv-winteg01.mchp-main.com:9182,
+sjo-sv-winteg02.mchp-main.com:9182,
+sjo-sv-winteg03.mchp-main.com:9182,
+sjo-sv-winteg04.mchp-main.com:9182,
+sjo-sv-winteg05.mchp-main.com:9182,
+sjo-sv-winteg06.mchp-main.com:9182,
+sjo-sv-winteg11.mchp-main.com:9182,
+sjots10.mchp-main.com:9182,	SWE Windows development server
 sjots11.mchp-main.com,	SWE Windows development server
 sjots12.mchp-main.com,	SWE Windows development server
 sjots13.mchp-main.com,	Integration server
