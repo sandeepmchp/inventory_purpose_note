@@ -1,23 +1,23 @@
-Machine	Purpose
-sjo-sv-winteg01.mchp-main.com	
-sjo-sv-winteg02.mchp-main.com	
-sjo-sv-winteg03.mchp-main.com	
-sjo-sv-winteg04.mchp-main.com	
-sjo-sv-winteg05.mchp-main.com	
-sjo-sv-winteg06.mchp-main.com	
-sjo-sv-winteg11.mchp-main.com	
+instance	Purpose
+sjo-sv-winteg01.mchp-main.com,
+sjo-sv-winteg02.mchp-main.com,
+sjo-sv-winteg03.mchp-main.com,
+sjo-sv-winteg04.mchp-main.com,
+sjo-sv-winteg05.mchp-main.com,
+sjo-sv-winteg06.mchp-main.com,
+sjo-sv-winteg11.mchp-main.com,
 sjots10.mchp-main.com,	SWE Windows development server
 sjots11.mchp-main.com,	SWE Windows development server
 sjots12.mchp-main.com,	SWE Windows development server
 sjots13.mchp-main.com,	Integration server
-sjots14mchp-main.com,	SQA Test server
+sjots14.mchp-main.com,	SQA Test server
 sjots15.mchp-main.com,	SWE Windows development server
 sjots16.mchp-main.com,	SWE Windows development server
 sjots17.mchp-main.com,	SWE Windows development server
 sjots18.mchp-main.com,	SQA Test server
 sjots19.mchp-main.com,	Windows development server
 sjots20.mchp-main.com,	Windows development server
-sjots21mchp-main.com,	Windows development server
+sjots21.mchp-main.com,	Windows development server
 sjots22.mchp-main.com,	Windows development server
 sjots23.mchp-main.com,	Windows development server
 sjots24.mchp-main.com,	ARENA Windows Docker host
